@@ -10,6 +10,7 @@ System.out.println("Jai Mata Kripa");
 System.out.println("Jai Mata mafi");
 System.out.println("Jai Mata Di");
 System.out.println("Jai Mata Di");
+System.out.println("Jai Mata Kripalu");
 	}
 
 }
